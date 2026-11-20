@@ -1,0 +1,27 @@
+{
+  "name": "Swift Sonic Demo Fri 3",
+  "apps": [
+    {
+      "name": "Matcha with Maddie Fri 3",
+      "bundleIdentifier": "devplaceholder.D4912Z8A.caro-prompt-v2",
+      "developerName": "Maddie McCarthy",
+      "localizedDescription": "A calm little offline matcha recipe book. Browse Iced Vanilla Matcha, Strawberry Matcha Latte, and Honey Oat Matcha, each with ingredient quantities, prep time, and numbered steps — or tap Surprise Me for something new.",
+      "iconURL": "https://raw.githubusercontent.com/maddiemccarthy/maddies-matcha-fri/main/fri3/icon.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-11-20",
+          "downloadURL": "https://github.com/maddiemccarthy/maddies-matcha-fri/releases/download/fri3-swiftsonic-v1.0.0/MatchaWithMaddieFri3.ipa",
+          "size": 147640,
+          "minOSVersion": "27.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
